@@ -1,24 +1,67 @@
-# README
+# react-rails
+This is a rails API that allows users to get a random greeting.
+## Built With
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Technologies used:
+  > Ruby
+  > Gemfile
+  > IRB
+  > Rails
+  > PostgreSql
+  
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+### Prerequisites
 
-* System dependencies
+You need to have a browser and this tools installed:
 
-* Configuration
+- Git
+- Ruby
+- Rails
+- PostgreSql
 
-* Database creation
+### Setup
 
-* Database initialization
+To get a local copy up and running follow these simple example steps:
 
-* How to run the test suite
+```
+$ git clone git@github.com:tylher/hello-rails-back-end.git
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+$ cd hello-rails-back-end
+```
 
-* Deployment instructions
+```
+$ bundle install
+```
 
-* ...
+### Usage
+
+To run any ruby file:
+
+```
+$ ruby (name of file)
+```
+
+To run app on server:
+```
+$ rails s
+```
+
+
+
+## Authors
+
+👤 <a href="https://github.com/tylher" target="blank"><img align="center"
+      src="https://user-images.githubusercontent.com/57408419/163676887-390d6032-6720-42bb-ad16-f8e199d6f2fa.jpg"
+      alt="adam pithewan" height="50" width="50"/></a> **Taiwo Damola Adediran**
+
+- GitHub: [@tylher](https://github.com/tylher)
+- Twitter: [@tylher123](https://twitter.com/tylher123)
+- LinkedIn: [Taiwo Adediran](https://www.linkedin.com/in/taiwo-adediran-327654127/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
