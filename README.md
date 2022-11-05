@@ -50,6 +50,8 @@ To run app on server:
 $ rails s
 ```
 
+### React App
+[react app](https://github.com/tylher/hello-rails-front-end)
 
 
 ## Authors
